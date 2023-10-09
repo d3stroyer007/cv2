@@ -29,3 +29,5 @@ while True:
 # Release the webcam and close the OpenCV window
 cap.release()
 cv2.destroyAllWindows()
+
+#Blah Blah Blah Blah Blah
